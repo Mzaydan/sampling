@@ -16,31 +16,107 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#2`
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+
+The purpose of this survey is to understand what voters want from my political party and its leader to maintain a lead and eventually win the upcoming federal election.
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+
+Target Population: Eligible voters in Canada.
+Sampling Frame: The list of registered voters provided by Elections Canada.
+Sampling Units: Individual registered voters.
+Overall Sampling Strategy: Simple random sampling to ensure a representative sample of the voting population.
+
+
+
+
+How SRS Ensures a Representative Sample:
+
+Simple Random Sampling (SRS) makes sure everyone in the target population has an equal chance of being chosen. This randomness helps avoid bias, ensuring no group is over- or under-represented. SRS helps the sample reflect the diversity of the whole voter population in terms of age, gender, ethnicity, and location. This is important for accurately capturing the opinions and preferences of all voters.
+
+Potential Limitations and Considerations:
+
+While SRS is good for getting a representative sample, it might not always cover specific subgroups that are important for the survey. For example, if different regions or demographic groups have unique voting behaviors, SRS might miss these details. To solve this, we can use stratified sampling.
+
+Alternative Sampling Strategy: Stratified Sampling
+
+In stratified sampling, we divide the population into subgroups based on characteristics like region, age, or political affiliation. Then, we take a random sample from each subgroup. This way, all important subgroups are well-represented in the sample.
+
+Rationale for Stratified Sampling:
+
+Stratified sampling gives more detailed insights by ensuring each subgroup's unique preferences and concerns are captured. For instance, urban and rural voters might have different priorities. By stratifying the sample based on region and then sampling randomly within each subgroup, the survey can better reflect the diverse opinions of different population segments. This helps create more targeted and effective campaign strategies.
+
+
+
+
+
+
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
-```
+1-How likely are you to vote in the upcoming federal election?
+Very likely
+Somewhat likely
+Undecided
+Somewhat unlikely
+Very unlikely
+
+
+2-Which party are you currently planning to vote for?
+[Party Name]
+[Opposing Party Name]
+Other (please specify)
+Undecided
+
+
+3-What are the top three issues that will influence your vote in the upcoming election? (Select up to three)
+Economy
+Healthcare
+Education
+Environment
+Immigration
+National Security
+Social Issues (e.g., LGBTQ+ rights, abortion)
+Other (please specify)
+
+
+4-How satisfied are you with the current performance of (my party's) leader?
+Very satisfied
+Somewhat satisfied
+Neutral
+Somewhat dissatisfied
+Very dissatisfied
+
+
+5-What qualities do you believe are most important in a political leader? (Select up to three)
+Integrity
+Competence
+Vision
+Communication skills
+Empathy
+Decisiveness
+Other (please specify)
+
+
+6-How would you rate (my party) handling of the following issues? (Rate each on a scale from 1 to 5, with 1 being very poor and 5 being excellent)
+Economy
+Healthcare
+Education
+Environment
+Immigration
+National Security
+Social Issues
+
+
+7-Do you feel that (my party) is addressing your concerns and needs as a voter?
+Yes, very much
+Yes, somewhat
+Neutral
+No, not really
+No, not at all
+
 
 ## Rubric
 
