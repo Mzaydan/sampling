@@ -29,6 +29,31 @@ Sampling Frame: The list of registered voters provided by Elections Canada.
 Sampling Units: Individual registered voters.
 Overall Sampling Strategy: Simple random sampling to ensure a representative sample of the voting population.
 
+
+
+
+How SRS Ensures a Representative Sample:
+
+Simple Random Sampling (SRS) makes sure everyone in the target population has an equal chance of being chosen. This randomness helps avoid bias, ensuring no group is over- or under-represented. SRS helps the sample reflect the diversity of the whole voter population in terms of age, gender, ethnicity, and location. This is important for accurately capturing the opinions and preferences of all voters.
+
+Potential Limitations and Considerations:
+
+While SRS is good for getting a representative sample, it might not always cover specific subgroups that are important for the survey. For example, if different regions or demographic groups have unique voting behaviors, SRS might miss these details. To solve this, we can use stratified sampling.
+
+Alternative Sampling Strategy: Stratified Sampling
+
+In stratified sampling, we divide the population into subgroups based on characteristics like region, age, or political affiliation. Then, we take a random sample from each subgroup. This way, all important subgroups are well-represented in the sample.
+
+Rationale for Stratified Sampling:
+
+Stratified sampling gives more detailed insights by ensuring each subgroup's unique preferences and concerns are captured. For instance, urban and rural voters might have different priorities. By stratifying the sample based on region and then sampling randomly within each subgroup, the survey can better reflect the diverse opinions of different population segments. This helps create more targeted and effective campaign strategies.
+
+
+
+
+
+
+
 Your 5-10 question survey:
 ```
 1-How likely are you to vote in the upcoming federal election?
